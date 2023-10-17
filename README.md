@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # ChatGPT-API Demo
 
 English | [简体中文](./README.zh-CN.md)
@@ -208,3 +209,6 @@ Thank you to all our supporters!🙏
 ## License
 
 MIT © [ddiu8081](https://github.com/ddiu8081/chatgpt-demo/blob/main/LICENSE)
+=======
+# ChatGPT-Demo
+>>>>>>> 7b73036b0160559744df914c48f7ae67a1c968e7
